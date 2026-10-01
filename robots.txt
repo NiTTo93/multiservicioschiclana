@@ -1,4 +1,4 @@
-# robots.txt — Multiservicios Chiclana (multiservicioschiclana24h.es)
+# robots.txt — NOX Fontaneros Chiclana (multiservicioschiclana24h.es)
 
 # ── Crawlers de IA (GEO: permitir explícitamente) ──
 User-agent: GPTBot
