@@ -108,4 +108,19 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://multiservicioschiclana24h.es/aviso-legal.html</loc>
+    <lastmod>2026-10-12</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://multiservicioschiclana24h.es/politica-privacidad.html</loc>
+    <lastmod>2026-10-12</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://multiservicioschiclana24h.es/politica-cookies.html</loc>
+    <lastmod>2026-10-12</lastmod>
+    <priority>0.3</priority>
+  </url>
 </urlset>
